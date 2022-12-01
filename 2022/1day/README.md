@@ -1,6 +1,6 @@
-Answer of First Part is **first.ipynb**
+Answer of first part is **first.ipynb**
 
-Answer of Second Part is **second.ipynb**
+Answer of second part is **second.ipynb**
 
 The given input is **input_first.txt** 
 
