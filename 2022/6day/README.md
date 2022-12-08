@@ -1,4 +1,4 @@
-**first.ipynb** and **second.ipynb** ares genesis versions.
+**first.ipynb** and **second.ipynb** are genesis versions.
 
 **input_test_first.txt** is simple lines to test program.
 
